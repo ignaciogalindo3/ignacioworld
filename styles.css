@@ -1,0 +1,28 @@
+footer {
+    text-align: center;
+}
+body {
+    text-align: center;
+}
+.test1 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-left: 10px;
+}
+#test2 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+img {
+    border-radius: 20px;
+}
+html {
+    color: black;
+    /*text-shadow: white 1px 1px;*/
+    background: -webkit-linear-gradient(left, orange, white);
+}
+a {
+    text-decoration: none;
+}
